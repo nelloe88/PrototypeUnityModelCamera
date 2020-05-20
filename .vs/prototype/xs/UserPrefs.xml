@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{93FDA6B2-70C3-C7E3-00B8-3BA81DB5C15A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/CamMove.cs">
+    <Files>
+      <File FileName="Assets/script/CamMove.cs" Line="7" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bde483aa-6738-433d-a5b1-f83fbb3413d5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
